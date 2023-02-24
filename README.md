@@ -1,2 +1,2 @@
 # auto-checkout-frontend
-Auto C;heckout Frontend
+Auto Checkout Frontend
